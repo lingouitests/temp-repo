@@ -2,6 +2,7 @@
   "eng": {
     "application": {
       "cancel_button": "Annuler",
+      "Roger_Test": "Test de Roger",
       "save_button": "Enregistrer",
       "delete_button": "Supprimer",
       "edit_button": "Modifier",
@@ -17,18 +18,19 @@
     "date": {
       "month_names": [
         "NUL",
-        "janvier",
-        "février",
-        "Mars",
-        "avril",
-        "mai",
-        "juin",
-        "juillet",
         "août",
         "septembre",
         "octobre",
         "novembre",
-        "décembre"
+        "décembre",
+        "janvier",
+        "février",
+        "Mars",
+        "avril",
+        "2 avril",
+        "mai",
+        "juin",
+        "juillet"
       ]
     }
   }
