@@ -1,0 +1,35 @@
+{
+  "eng": {
+    "application": {
+      "cancel_button": "Annuler",
+      "save_button": "Enregistrer",
+      "delete_button": "Supprimer",
+      "edit_button": "Modifier",
+      "publish_button": "Publier",
+      "optional": "(facultatif)",
+      "save_and_publish_button": "Enregistrer et publier",
+      "view_button": "Afficher",
+      "audit_log_button": "Journal d'audit",
+      "inactivate_button": "Désactiver",
+      "activate_button": "Activez",
+      "clone_button": "Copier vers un nouveau calcul"
+    },
+    "date": {
+      "month_names": [
+        "NUL",
+        "janvier",
+        "février",
+        "Mars",
+        "avril",
+        "mai",
+        "juin",
+        "juillet",
+        "août",
+        "septembre",
+        "octobre",
+        "novembre",
+        "décembre"
+      ]
+    }
+  }
+}
