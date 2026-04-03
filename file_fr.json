@@ -13,8 +13,9 @@
       "optional": "(facultatif)",
       "publish_button": "Publier",
       "save_and_publish_button": "Enregistrer et publier",
-      "save_button": "Enregistrer",
-      "view_button": "Afficher"
+      "save_button": "Épargne",
+      "view_button": "Afficher",
+      "ww": "w"
     },
     "date": {
       "month_names": [
