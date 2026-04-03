@@ -1,19 +1,19 @@
 {
   "eng": {
     "application": {
-      "cancel_button": "Annuler",
       "Roger_Test": "Test de Roger",
-      "save_button": "Enregistrer",
+      "activate_button": "Activez",
+      "audit_log_button": "Journal d'audit",
+      "cancel_button": "Annuler",
+      "clone_button": "Copier vers un nouveau calcul",
       "delete_button": "Supprimer",
       "edit_button": "Modifier",
-      "publish_button": "Publier",
-      "optional": "(facultatif)",
-      "save_and_publish_button": "Enregistrer et publier",
-      "view_button": "Afficher",
-      "audit_log_button": "Journal d'audit",
       "inactivate_button": "Désactiver",
-      "activate_button": "Activez",
-      "clone_button": "Copier vers un nouveau calcul"
+      "optional": "(facultatif)",
+      "publish_button": "Publier",
+      "save_and_publish_button": "Enregistrer et publier",
+      "save_button": "Enregistrer",
+      "view_button": "Afficher"
     },
     "date": {
       "month_names": [
@@ -22,7 +22,15 @@
         "février",
         "Mars",
         "avril",
-        "2 avril",
+        {
+          "Aprilv2": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ]
+        },
         "mai",
         "juin",
         "juillet",
