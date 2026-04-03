@@ -2,7 +2,6 @@
   "eng": {
     "application": {
       "cancel_button": "Cancel",
-       "Roger_Test": "Roger Test",
       "save_button": "Save",
       "delete_button": "Delete",
       "edit_button": "Edit",
@@ -22,7 +21,6 @@
         "February",
         "March",
         "April",
-        "Aprilv2",
         "May",
         "June",
         "July",
