@@ -1,6 +1,7 @@
 {
   "eng": {
     "application": {
+      "123": "123",
       "Roger_Test": "Test de Roger",
       "activate_button": "Activez",
       "audit_log_button": "Journal d'audit",
